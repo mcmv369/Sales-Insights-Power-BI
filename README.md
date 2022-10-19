@@ -20,5 +20,4 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 - Updated dashboard
 <img width="960" alt="Final_report" src="https://user-images.githubusercontent.com/114512832/196626532-66fc7f87-071a-448c-9f1d-2171bedffe63.png">
-![1666077419138](https://user-images.githubusercontent.com/114512832/196626894-e6b07fdf-2513-40d4-8520-25ca3d4c446d.jpeg)
 
