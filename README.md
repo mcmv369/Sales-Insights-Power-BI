@@ -13,6 +13,11 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 - 5.Created measure for needs and used them for creating visuals in PowerBi.
 - 6.After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
+# Data Model
+
+![image](https://user-images.githubusercontent.com/114512832/197145095-ee1f9a45-dc96-4feb-a5ef-4a317b300bd6.png)
+
+
 # Final result
 - Initial Dashboard
 <img width="960" alt="Inital_report" src="https://user-images.githubusercontent.com/114512832/196626510-f09de340-ef70-4903-a6d3-4d9315091153.png">
