@@ -21,3 +21,13 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 - Updated dashboard
 <img width="960" alt="Final_report" src="https://user-images.githubusercontent.com/114512832/196626532-66fc7f87-071a-448c-9f1d-2171bedffe63.png">
 
+# created following KPI's using Dax
+
+- Profit Margin %
+- Total Profit Margin
+- Profit Margin Contribution
+- Revenue
+- Revenue contribution %
+- Revenue LY (last Year)
+- Sales Quantity
+
